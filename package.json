@@ -1,0 +1,23 @@
+{
+  "name": "slackchatbot",
+  "version": "0.0.1",
+  "description": "A simple chat bot that gives random information about dates and times",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristopherEdynak/slackChatBot.git"
+  },
+  "author": "Christopher Edynak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChristopherEdynak/slackChatBot/issues"
+  },
+  "homepage": "https://github.com/ChristopherEdynak/slackChatBot#readme",
+  "dependencies": {
+    "botkit": "^0.7.4",
+    "superagent": "^5.0.3"
+  }
+}
